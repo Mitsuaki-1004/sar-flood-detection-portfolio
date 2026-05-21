@@ -186,5 +186,5 @@ QPSホールディングスの決算資料・有価証券報告書を読んで�
 - [QPS研究所 公式サイト](https://i-qps.net/)
 - [QPSホールディングス IRページ](https://i-qps.net/ir/)
 - [Google Earth Engine データカタログ（Sentinel-1）](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S1_GRD)
-- [国土交通省 防災情報提供センター](https://www.bosaijoho.go.jp/)
+- [国土交通省 防災情報提供センター](https://www.mlit.go.jp/river/bousai/)
 - 本Notebookで使用したSAR差分解析の試み：`analysis_gee.ipynb` 参照
